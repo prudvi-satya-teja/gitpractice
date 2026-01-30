@@ -1,1 +1,3 @@
-# gitpractice
+# GitPractice
+
+updated content 
